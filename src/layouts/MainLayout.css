@@ -1,0 +1,18 @@
+#mainIcon{
+  height: 5vh;
+  margin-right: 1vw;
+}
+
+.mainPage{
+  padding:1.5vh;
+  padding-bottom: 0;
+  height: 89.5vh;
+  overflow-y: auto;
+}
+
+footer{
+  position: fixed;
+  bottom: 0px;
+  text-align: center;
+  width: 100%;
+}
